@@ -14,7 +14,7 @@ class CiTestApplicationTests {
     public void testAdd() {
         int add = myService.add(2, 6);
         assert add == 8;
-        System.out.println("我是牧小农");
+        System.out.println("开始测试");
     }
 
 }
